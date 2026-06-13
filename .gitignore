@@ -5,3 +5,4 @@ node_modules/
 .wrangler-logs/
 *.log
 .DS_Store
+worker.js
