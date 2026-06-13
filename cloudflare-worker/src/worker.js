@@ -1,4 +1,4 @@
-const ADMIN_IDS = new Set([5977938954]);
+const ADMIN_IDS = new Set([id]);
 const MAX_TELEGRAM_MESSAGE = 3900;
 const memoryLogs = [];
 
