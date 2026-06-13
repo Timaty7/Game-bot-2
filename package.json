@@ -1,0 +1,22 @@
+{
+  "name": "terminal-telegram-bot",
+  "version": "1.0.0",
+  "description": "A terminal Telegram bot with Gemini AI, games, admin tools, and Google Sheets logging.",
+  "type": "module",
+  "main": "src/local-bot.js",
+  "scripts": {
+    "start": "node src/local-bot.js",
+    "bot": "node src/local-bot.js",
+    "dev": "node --watch src/local-bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "node",
+    "telegram",
+    "bot",
+    "gemini"
+  ],
+  "license": "MIT"
+}
