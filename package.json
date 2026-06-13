@@ -1,5 +1,5 @@
 {
-  "name": "terminal-telegram-bot",
+  "name": "telegram-bot",
   "version": "1.0.0",
   "description": "A terminal Telegram bot with Gemini AI, games, admin tools, and Google Sheets logging.",
   "type": "module",
